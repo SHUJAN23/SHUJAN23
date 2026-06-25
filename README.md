@@ -1,10 +1,10 @@
 # Hi, I'm Shujan 👋
 
-🎓 MCA Student
+ MCA Student
 
-🎮 Aspiring Game Developer
+ Aspiring Game Developer
 
-💻 Full Stack Developer
+ Full Stack Developer
 
 Passionate about creating games, gameplay systems, 3D environments, and interactive applications using Unity, C#, Blender, and modern web technologies.
 
