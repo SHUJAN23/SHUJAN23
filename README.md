@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shujan</h1>
 
 <h3 align="center">
-🎮 Unity Game Developer • 🎨 Blender Artist • 💻 Full Stack Developer
+ Unity Game Developer • Blender Artist •  Full Stack Developer
 </h3>
 
 <p align="center">
@@ -45,7 +45,7 @@ Learning Gameplay Programming & Technical Art
 ###  Full Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,js,html,css" />
+<img src="https://skillicons.dev/icons?i=react,threeJs,nodejs,express,mongodb,js,html,css" />
 </p>
 
 ###  Programming Languages
