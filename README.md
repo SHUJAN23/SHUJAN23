@@ -1,82 +1,162 @@
-# Hi, I'm Shujan 👋
+<h1 align="center">Hi 👋, I'm Shujan</h1>
+
+<h3 align="center">
+🎮 Unity Game Developer • 🎨 Blender Artist • 💻 Full Stack Developer
+</h3>
+
+<p align="center">
+Building immersive gameplay experiences with Unity & C#
+<br>
+Creating 3D worlds with Blender
+<br>
+Learning Gameplay Programming & Technical Art
+</p>
+
+---
+
+##  About Me
 
  MCA Student
 
- Aspiring Game Developer
+ Passionate about Game Development
 
- Full Stack Developer
+ 3D Environment & Asset Creator
 
-Passionate about creating games, gameplay systems, 3D environments, and interactive applications using Unity, C#, Blender, and modern web technologies.
+ Full Stack Web Developer
+
+ Currently learning
+
+- Gameplay Programming
+- Technical Art
+- Shader Graph
+- Unity Optimization
+- Multiplayer Systems
 
 ---
 
-## Skills
+##  Tech Stack
 
-### Game Development
+###  Game Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=unity,cs,blender,git,github,vscode" />
+</p>
+
+###  Full Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,js,html,css" />
+</p>
+
+###  Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,c,php" />
+</p>
+
+---
+
+#  Featured Projects
+
+##  Demolition Derby
+
+Vehicle combat game with collision mechanics and destruction gameplay.
+
+---
+
+##  Hell Drive
+
+A Unity driving game featuring realistic vehicle mechanics and immersive gameplay.
+
+**Tech Used**
+
 - Unity
 - C#
-- Game Design
-- Gameplay Programming
-- Physics Systems
-- UI Systems
+- Physics
+- UI System
 
-### 3D Design
-- Blender
-- 3D Modeling
-- Asset Creation
-- Environment Design
+---
 
-### Full Stack Development
-- React.js
+
+##  Portfolio Website
+
+Modern React + Vite portfolio showcasing my projects and skills.
+
+---
+
+##  SpriteBasket
+
+A Full Stack platform where creators can upload and share game assets.
+
+**Stack**
+
+- React
 - Node.js
-- Express.js
+- Express
 - MongoDB
-- Firebase
-
-### Programming Languages
-- C
-- C++
-- Java
-- Python
-- JavaScript
-- C#
 
 ---
 
-## Projects
+#  GitHub Stats
 
-### Hell Drive
-A Unity-based game developed using C#. Implemented gameplay mechanics, player controls, game physics, and UI systems.
+<p align="center">
 
-### Scrap Wars
-A 3D vehicle combat game developed using Unity, C#, and Blender. Designed custom 3D assets, environments, and gameplay systems.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SHUJAN23&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### Clash of Champions
-A 2D fighting game developed using Python and Pygame featuring round-based combat and multiplayer gameplay.
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SHUJAN23&theme=tokyonight&hide_border=true"/>
 
-### SpriteBasket
-A MERN Stack platform for sharing and downloading game assets.
+</p>
 
-### SpeakHive
-A Flutter and Firebase-based student grievance management application.
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHUJAN23&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## Currently Learning
-
-- Advanced Unity Development
-- Game Optimization
-- 3D Environment Design
-- Multiplayer Game Systems
+</p>
 
 ---
 
-## Goal
+#  Current Goals
 
-To build immersive games and become a professional Game Developer.
+ Publish Unity Games
 
-## Connect With Me
+ Build AAA-Level Portfolio
 
-- LinkedIn: Coming Soon
-- Portfolio: Coming Soon
+ Learn Technical Art
 
+ Master Gameplay Programming
+
+ Contribute to Open Source
+
+---
+
+#  Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/shujandv">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:asusshujan@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+#⚡ Fun Fact
+
+> "I don't just play games... I build them. "
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=SHUJAN23&color=blueviolet&style=flat)
+
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
