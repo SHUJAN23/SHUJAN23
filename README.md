@@ -57,7 +57,7 @@ Learning Gameplay Programming & Technical Art
 ###  Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,c,php" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python," />
 </p>
 
 ---
