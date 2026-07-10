@@ -45,7 +45,7 @@ Learning Gameplay Programming & Technical Art
 ###  Full Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,threeJs,nodejs,express,mongodb,js,html,css" />
+<img src="https://skillicons.dev/icons?i=react,threejs,nodejs,express,mongodb,js,html,css" />
 </p>
 
 ###  Programming Languages
