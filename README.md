@@ -38,14 +38,20 @@ Learning Gameplay Programming & Technical Art
 
 ###  Game Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=unity,cs,blender,git,github,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,cs,blender,git,github,vscode" />
 </p>
 
-###  Full Stack
+###  Full Stack Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,threejs,nodejs,express,mongodb,js,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,threejs,nodejs,mongodb,firebase,js,html,css" />
+</p>
+
+###  Other Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c," />
 </p>
 
 ###  Programming Languages
