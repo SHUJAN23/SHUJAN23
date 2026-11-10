@@ -12,7 +12,7 @@
 
 ---
 
-## 🎨 About Me
+##  About Me
 
 I'm a 3D Artist and aspiring Technical Artist passionate about creating immersive environments and interactive experiences for games.
 
@@ -20,68 +20,68 @@ My journey started with game development and programming, which gradually led me
 
 Currently, I'm focusing on:
 
-- 🌿 Environment Art and Level Design
-- 🧊 3D Modeling and Asset Creation using Blender
-- 🎮 Real-time Environment Creation in Unreal Engine and Unity
-- 💡 Lighting, Materials, Texturing and Composition
-- ⚙️ Exploring Technical Art and Game Optimization
-- 💻 Gameplay Programming with C# and Unreal Engine
+-  Environment Art and Level Design
+-  3D Modeling and Asset Creation using Blender
+-  Real-time Environment Creation in Unreal Engine and Unity
+-  Lighting, Materials, Texturing and Composition
+-  Exploring Technical Art and Game Optimization
+-  Gameplay Programming with C# and Unreal Engine
 
 My long-term goal is to become a Technical Artist, combining artistic creativity with technical problem-solving.
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
-### 🎮 Game Engines
+###  Game Engines
 <p align="left">
   <img src="https://skillicons.dev/icons?i=unreal,unity" />
 </p>
 
-### 🎨 3D Art & Design
+###  3D Art & Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=blender,ps" />
+  <img src="https://skillicons.dev/icons?i=blender" />
 </p>
 
-### 💻 Programming & Development
+###  Programming & Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,cpp,python,java,js,react,threejs,nodejs" />
 </p>
 
-### 🔧 Tools & Technologies
+###  Tools & Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,mongodb,firebase" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🌄 Environment Art
+###  Environment Art
 
 Creating immersive game environments with a focus on composition, lighting, materials, landscapes, and environmental storytelling.
 
 **Tools:** Unreal Engine | Unity | Blender
 
-### 🚗 Demolition Derby
+###  Demolition Derby
 
 A 3D vehicle combat game featuring AI opponents, vehicle physics, collision mechanics, and a damage system.
 
 **Tools:** Unity | C# | Blender
 
-### 🏎️ Hell Drive
+###  Hell Drive
 
 A 3D car game focused on vehicle mechanics, physics-based gameplay, and destruction-inspired driving experiences.
 
 **Tools:** Unity | C#
 
-### ✈️ Airborne Bling
+###  Airborne Bling
 
 A 3D airplane flying simulator built with React Three Fiber, featuring interactive flight mechanics and a real-time 3D environment.
 
 **Tools:** React | Three.js | React Three Fiber
 
-### 🌐 Portfolio Website
+###  Portfolio Website
 
 A personal portfolio showcasing my 3D artwork, environment art, game development projects, and creative experiments.
 
@@ -89,7 +89,7 @@ A personal portfolio showcasing my 3D artwork, environment art, game development
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Unreal Engine Environment Creation
 - Unity Environment Art
@@ -102,7 +102,7 @@ A personal portfolio showcasing my 3D artwork, environment art, game development
 
 ---
 
-## 🎯 My Goals
+##  My Goals
 
 - Build production-quality game environments.
 - Create optimized, game-ready 3D assets.
@@ -112,7 +112,7 @@ A personal portfolio showcasing my 3D artwork, environment art, game development
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/shujandv">
@@ -125,7 +125,7 @@ A personal portfolio showcasing my 3D artwork, environment art, game development
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
 > I don't just explore virtual worlds. I love building them.
 
@@ -134,5 +134,5 @@ A personal portfolio showcasing my 3D artwork, environment art, game development
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+   Thanks for visiting my profile! 
 </p>
