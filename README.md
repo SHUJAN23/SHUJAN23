@@ -1,152 +1,138 @@
-<h1 align="center">Hi 👋, I'm Shujan</h1>
+# 👋 Hi, I'm Shujan
 
 <h3 align="center">
- Unity Game Developer • Blender Artist •  Full Stack Developer
+  3D Artist | Environment Art | Game Development | Aspiring Technical Artist
 </h3>
 
 <p align="center">
-Building immersive gameplay experiences with Unity & C#
-<br>
-Creating 3D worlds with Blender
-<br>
-Learning Gameplay Programming & Technical Art
+  Creating immersive 3D environments and game-ready assets.
+  <br>
+  Exploring the intersection of art and technology in game development.
 </p>
 
 ---
 
-##  About Me
+## 🎨 About Me
 
- MCA Student
+I'm a 3D Artist and aspiring Technical Artist passionate about creating immersive environments and interactive experiences for games.
 
- Passionate about Game Development
+My journey started with game development and programming, which gradually led me towards 3D modeling, environment creation, and real-time rendering.
 
- 3D Environment & Asset Creator
+Currently, I'm focusing on:
 
- Full Stack Web Developer
+- 🌿 Environment Art and Level Design
+- 🧊 3D Modeling and Asset Creation using Blender
+- 🎮 Real-time Environment Creation in Unreal Engine and Unity
+- 💡 Lighting, Materials, Texturing and Composition
+- ⚙️ Exploring Technical Art and Game Optimization
+- 💻 Gameplay Programming with C# and Unreal Engine
 
- Currently learning
-
-- Gameplay Programming
-- Technical Art
-- Shader Graph
-- Unity Optimization
-- Multiplayer Systems
+My long-term goal is to become a Technical Artist, combining artistic creativity with technical problem-solving.
 
 ---
 
-##  Tech Stack
+## 🛠️ Skills & Tools
 
-###  Game Development
+### 🎮 Game Engines
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unreal,unity" />
+</p>
+
+### 🎨 3D Art & Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=blender,ps" />
+</p>
+
+### 💻 Programming & Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,java,js,react,threejs,nodejs" />
+</p>
+
+### 🔧 Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,mongodb,firebase" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌄 Environment Art
+
+Creating immersive game environments with a focus on composition, lighting, materials, landscapes, and environmental storytelling.
+
+**Tools:** Unreal Engine | Unity | Blender
+
+### 🚗 Demolition Derby
+
+A 3D vehicle combat game featuring AI opponents, vehicle physics, collision mechanics, and a damage system.
+
+**Tools:** Unity | C# | Blender
+
+### 🏎️ Hell Drive
+
+A 3D car game focused on vehicle mechanics, physics-based gameplay, and destruction-inspired driving experiences.
+
+**Tools:** Unity | C#
+
+### ✈️ Airborne Bling
+
+A 3D airplane flying simulator built with React Three Fiber, featuring interactive flight mechanics and a real-time 3D environment.
+
+**Tools:** React | Three.js | React Three Fiber
+
+### 🌐 Portfolio Website
+
+A personal portfolio showcasing my 3D artwork, environment art, game development projects, and creative experiments.
+
+**Tools:** React | Three.js | Tailwind CSS
+
+---
+
+## 📚 Currently Learning
+
+- Unreal Engine Environment Creation
+- Unity Environment Art
+- Advanced Blender Modeling
+- PBR Materials and Texturing
+- Lighting and Post Processing
+- Shader Development
+- Game Asset Optimization
+- Technical Art Workflows
+
+---
+
+## 🎯 My Goals
+
+- Build production-quality game environments.
+- Create optimized, game-ready 3D assets.
+- Strengthen my understanding of real-time rendering.
+- Develop skills in Technical Art and shader workflows.
+- Contribute to interesting game development projects.
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,cs,blender,git,github,vscode" />
-</p>
-
-###  Full Stack Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,threejs,nodejs,mongodb,firebase,js,html,css" />
-</p>
-
-###  Other Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c," />
-</p>
-
-###  Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python," />
+  <a href="https://linkedin.com/in/shujandv">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:asusshujan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-#  Featured Projects
+## ⚡ Fun Fact
 
-##  Demolition Derby
-
-Vehicle combat game with collision mechanics and destruction gameplay.
-
----
-
-##  Hell Drive
-
-A Unity driving game featuring realistic vehicle mechanics and immersive gameplay.
-
-**Tech Used**
-
-- Unity
-- C#
-- Physics
-- UI System
-
----
-
-
-##  Portfolio Website
-
-Modern React + Vite portfolio showcasing my projects and skills.
-
----
-
-##  SpriteBasket
-
-A Full Stack platform where creators can upload and share game assets.
-
-**Stack**
-
-- React
-- Node.js
-- Express
-- MongoDB
-
----
-
-
-
-#  Current Goals
-
- Publish Unity Games
-
- Build AAA-Level Portfolio
-
- Learn Technical Art
-
- Master Gameplay Programming
-
- Contribute to Open Source
-
----
-
-#  Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/shujandv">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:asusshujan@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-#⚡ Fun Fact
-
-> "I don't just play games... I build them. "
-
----
+> I don't just explore virtual worlds. I love building them.
 
 <p align="center">
-
-![](https://komarev.com/ghpvc/?username=SHUJAN23&color=blueviolet&style=flat)
-
+  <img src="https://komarev.com/ghpvc/?username=SHUJAN23&color=blueviolet&style=flat" />
 </p>
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+  ⭐ Thanks for visiting my profile! ⭐
 </p>
